@@ -1,0 +1,7 @@
+PIL
+pywin32
+pyautogui
+Image
+flask
+flask-restful
+qrcode
